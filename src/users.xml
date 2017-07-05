@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users> 
+  <user id="231123" username="aaa" password="123123" email="test@test.com" birthday="1980-09-09" nicname="强子"/>  
+  <user id="445678" username="nanke" password="123456" email="yu@sina.com" birthday="2017-7-4 16:34:01" nickname="灰色天空"/>  
+  <user id="hjdhghdi" username="nanke1" password="4QrcOUm6Wau+VuBX8g+IPg==" email="yu@sina.com" birthday="2017-7-4 21:04:56" nickname="灰色天空"/>  
+  <user id="84fd0306-3c4c-43cb-8255-30df2f379a1d" username="nankeee" password="ICy5YqxZB1uWSwcVLSNLcA==" email="test@test.com" nickname="黄"/>
+</users>
